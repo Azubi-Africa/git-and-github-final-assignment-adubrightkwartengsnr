@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Dollar_Store_Product_Classifier            |  This repository contains a jupyter notebook as well as the dataset for the Dollar Store Product Category Prediction            | https://github.com/adubrightkwartengsnr/Dollar_Store_Product_Classifier       |
+| 2 |  Euro_Exchange_Rate_Analysis              |  This project repository consist of an analysis on the exchange rate of euro currency as against other currencies             | https://github.com/adubrightkwartengsnr/Euro_Exchange_Rate_Analysis      |
+| 3 |  Simple_Linear_Regression_With_Microsoft_Excel              |  This repository contains an excel workbook for a simple linear regression             | https://github.com/adubrightkwartengsnr/Simple_Linear_Regression_With_Microsoft_Excel      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
